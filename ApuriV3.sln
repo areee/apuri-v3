@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApuriV3ClassLibrary", "Apur
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiApuriV3", "MauiApuriV3\MauiApuriV3.csproj", "{042BB285-5ECD-41ED-892D-A423FEB7DD4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WasmApuriV3", "WasmApuriV3\WasmApuriV3.csproj", "{5B98D411-3ACD-4F9F-B6CF-7F67C28DCDDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{042BB285-5ECD-41ED-892D-A423FEB7DD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{042BB285-5ECD-41ED-892D-A423FEB7DD4B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{042BB285-5ECD-41ED-892D-A423FEB7DD4B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5B98D411-3ACD-4F9F-B6CF-7F67C28DCDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B98D411-3ACD-4F9F-B6CF-7F67C28DCDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B98D411-3ACD-4F9F-B6CF-7F67C28DCDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B98D411-3ACD-4F9F-B6CF-7F67C28DCDDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
