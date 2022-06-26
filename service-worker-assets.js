@@ -109,7 +109,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-2lNKCY991MZUkGLMIg6zhDfZcXNZYGL58pqWoTSsQM0=",
+      "hash": "sha256-aBQNXxbbBsejmxqEMz27hpQtVxYqRtPwhnFAwDJ0g6o=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -233,7 +233,7 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-AEoud+tvtBYSBkVRYhgAqkeLSy\/azXBdSpRp+YGaLjM=",
+      "hash": "sha256-PkrgyTTwqctsNAnij2qKxosb8SM\/BvGF7k2aKC41Rt0=",
       "url": "_framework\/WasmApuriV3.dll"
     },
     {
@@ -249,5 +249,5 @@
       "url": "_content\/ApuriV3ClassLibrary\/exampleJsInterop.js"
     }
   ],
-  "version": "de0X2Deg"
+  "version": "sGH6gMuN"
 };
