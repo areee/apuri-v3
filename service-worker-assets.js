@@ -109,15 +109,15 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-aBQNXxbbBsejmxqEMz27hpQtVxYqRtPwhnFAwDJ0g6o=",
+      "hash": "sha256-m2DpCYZxB+Y29j4AB+Y8Xt0WYnZmcl2zOMh5P5XZm+8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-8VCwin6OhyoR64nBikmIlWPpZi\/h+jZMaJAT65bqOXg=",
+      "hash": "sha256-wS4K\/QImlHscxMu+4MtgRNf+5oCH91C9\/\/s816NVsfM=",
       "url": "_framework\/ApuriV3ClassLibrary.dll"
     },
     {
-      "hash": "sha256-Nysayq2J2\/mZbhsPMYGCdQuEEFjL3ooMpcUNH0pvGD0=",
+      "hash": "sha256-tKUBWfRkHRagy4T82Nh5Aw4PSdE0jN8xFyP5IXwqAE8=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -177,7 +177,7 @@
       "url": "_framework\/System.Collections.Concurrent.dll"
     },
     {
-      "hash": "sha256-kNODph2BbTyFKC4qUdIfaNx76fFN8nAods35BOfChtc=",
+      "hash": "sha256-2l+cWoYg0It15EcSHynNza12gcZa4VycJY9FWjGf1xM=",
       "url": "_framework\/System.Collections.dll"
     },
     {
@@ -187,6 +187,10 @@
     {
       "hash": "sha256-qaaAfmh6ndqfNTwWDK1S8rse1\/aK94ZNCV5RVXcmS6U=",
       "url": "_framework\/System.Console.dll"
+    },
+    {
+      "hash": "sha256-\/EPjNjptIIMOzuEjGZve43iTh+1WFyFL1qLfxeMa\/tI=",
+      "url": "_framework\/System.Linq.dll"
     },
     {
       "hash": "sha256-R0peGsRutQr4Sy4Ix3P78P9NdXSAt9ABjOVa3k2xQwE=",
@@ -205,7 +209,7 @@
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-dfJPVwZ0JY5nxrjBGHrtkd59F2n3Sti29UP8OVdue\/Y=",
+      "hash": "sha256-KZ3wauFeeG2SZsAUtUPbeviuEgNDPNqfr7dXdG+LhIE=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -221,7 +225,7 @@
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-eeBadHE0MPkHKqjflb0386An43TNYTFJmq+jToK83wk=",
+      "hash": "sha256-NSRmV0QZLRexcoUucRFtqpH\/jtHQ3UCEyblelcwVJBE=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -233,7 +237,7 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-PkrgyTTwqctsNAnij2qKxosb8SM\/BvGF7k2aKC41Rt0=",
+      "hash": "sha256-hMH9PLNg0VaBITMuZRQ+cn4+m74Az93pIaM30cveS18=",
       "url": "_framework\/WasmApuriV3.dll"
     },
     {
@@ -249,5 +253,5 @@
       "url": "_content\/ApuriV3ClassLibrary\/exampleJsInterop.js"
     }
   ],
-  "version": "sGH6gMuN"
+  "version": "vU5HvmN5"
 };
