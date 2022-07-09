@@ -1,0 +1,44 @@
+﻿@page "/todo"
+
+<h3>Todo</h3>
+
+<h3>Todo (@todos.Count(todo=>!todo.IsDone))</h3>
+
+<ul>
+    @for (int i = 0; i < todos.Count; i++)
+    {
+        var todo = todos[i];
+        var buttonNumber = i;
+
+            <li>
+                <input type="checkbox" @bind="todo.IsDone" />
+                <input @bind="todo.Title" />
+                <button @onclick="@(e=>RemoveTodo(buttonNumber, todo))">Remove</button>
+            </li>
+    }
+</ul>
+
+<input placeholder="Something todo" @bind="newTodo" />
+<button @onclick="AddTodo">Add todo</button>
+
+@code {
+    private List<TodoItem> todos = new();
+    private string? newTodo;
+
+    private void AddTodo()
+    {
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem { Title = newTodo });
+            newTodo = string.Empty;
+        }
+    }
+
+    private void RemoveTodo(int index, TodoItem todo)
+    {
+        System.Console.WriteLine("Removing todo at index " + index);
+        System.Console.WriteLine("Removed todo item: " + todo.Title);
+
+        todos.RemoveAt(index);
+    }
+}
