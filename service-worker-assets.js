@@ -65,7 +65,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-khwe1knbaziji\/XyFr4wC6hZ+JX78gwKRUNTwP34JZs=",
+      "hash": "sha256-Z\/UgWR5wSD6dY4qhJEf+9OcoJAPwjQTFqFGKTG1cLXQ=",
       "url": "index.html"
     },
     {
@@ -253,5 +253,5 @@
       "url": "_content\/ApuriV3ClassLibrary\/exampleJsInterop.js"
     }
   ],
-  "version": "vU5HvmN5"
+  "version": "0+DUbSvP"
 };
